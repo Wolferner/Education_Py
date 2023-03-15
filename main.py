@@ -5,7 +5,6 @@ def sort_array(source_array: list)-> list:
     list =[]
     for i, d in enumerate(source_array):
 
-    pidr
 
     return list
 
