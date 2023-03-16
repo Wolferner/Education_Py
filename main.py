@@ -1,12 +1,7 @@
 
 def sort_array(source_array: list)-> list:
     # Return a sorted array.
-    con = 0
-    list =[]
-    for i, d in enumerate(source_array):
 
-
-    return list
 
 if __name__ == '__main__':
 
